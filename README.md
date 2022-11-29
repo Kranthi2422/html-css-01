@@ -10,6 +10,6 @@
 
 Deployed Website ![Project 1](https://img.shields.io/badge/-Project%201-green)
 
-## [Link to the Project 1]()
+## [Link to the Project 1](https://lustrous-bombolone-37d053.netlify.app/)
 
 ## It took about 2hrs time for me to complete this website
